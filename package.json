@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/astorks/ScriptableMC-CommonJS#readme",
   "dependencies": {
-    "@astorks/lib-smc": "^1.2.1-preview1"
+    "@astorks/lib-smc": "^1.2.1-preview2"
   },
   "devDependencies": {}
 }
